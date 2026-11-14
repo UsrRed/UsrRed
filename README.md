@@ -14,7 +14,6 @@ I build web applications for large clients such as Club Med and RTE. What I enjo
 | [**gh-scanner**](https://github.com/UsrRed/gh-scanner) | Security scanner for GitHub repositories: sandboxed cloning, local analysis and read-only AI review, producing a scored report |
 | [**pj-gen**](https://github.com/UsrRed/pj-gen) | Orchestrator driving Claude Code in headless mode to build complete projects, from specification to tests (gh-scanner was built with it) |
 | [**Cardinal**](https://github.com/UsrRed/Cardinal) | Automated security watch: RSS, OSV and NVD feeds, deduplicated and summarized by AI, with ntfy notifications |
-| [**booking-epita**](https://github.com/UsrRed/booking-epita) | Hardening a vulnerable Spring Boot app: HTTPS, CSRF, access control, AES-GCM encryption, OSV-Scanner and Semgrep in CI |
 | [**portfolio**](https://github.com/UsrRed/portfolio) | My portfolio site: Vue 3, Go and PostgreSQL behind Traefik, with SSH hidden behind single packet authorization (fwknop) |
 
 ### Toolbox
